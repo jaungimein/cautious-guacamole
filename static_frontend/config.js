@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://xerothermic-wilhelmina-hrdex-c964db43.koyeb.app';
+const API_BASE_URL = 'https://index-z2eg.onrender.com';
 
 function showNotification(message, isError = false) {
     const n = document.getElementById('notification');
